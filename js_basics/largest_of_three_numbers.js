@@ -11,15 +11,16 @@
 
 //The largest number is 789
 
-//solution
 
 
+
+
+
+////////////////////////////solution//////////////////////////
 
 let nam1 = process.argv[2];
 let nam2 = process.argv[3];
 let nam3 = process.argv[4];
 
 console.log("The largest number is: ", (Math.max(nam1, nam2, nam3)));
-
-
 
